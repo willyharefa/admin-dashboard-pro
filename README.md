@@ -31,10 +31,11 @@ A sleek, responsive, and high-performance Admin Dashboard built with **HTML5, CS
 ## 📸 Screenshots
 
 ### Light Mode
-> *Add a screenshot of your Light Mode here*
+![Dashboard Light Mode](assets/img/dashboard-light-mode.png)
 
 ### Dark Mode
 > *Add a screenshot of your Dark Mode here*
+![Dashboard Dark Mode](assets/img/dashboard-dark-mode.png)
 
 ---
 
